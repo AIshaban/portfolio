@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Graduation Project - Smart Meter",
+      "description": "A smart meter module ready to be mounted pre ",
+      "techStack": ["IOT", "Firebase", "C++", "Embedded C"],
+      "features": [
+        "Developed an innovative IoT-based application enabling consumers to monitor and manage household energy consumption",
+        "Enabled real-time monitoring and control of household energy consumption through a mobile application.",
+        "Integrated the system with a Firebase real-time database via a Wi-Fi module for continuous data storage and retrieval.",
+        "Implemented multiple operational modes to optimize energy efficiency",
+        "Admin dashboard for inventory management",
+        "Developed a user-friendly app interface for tracking individual appliance consumption and managing operational modes to optimize energy use"
+      ],
+      "status": "Completed",
+      "duration": "1 year",
+      "year": "2024"
+    },
+    {
+      "id": 2,
+      "title": "campgrounds-website",
+      "description":"A website which contains campgrounds in US with reviews",
+      "techStack": ["Node", "MongoDB", "RESTful-api", "express"],
+      "features": [
+        "Built a dynamic web application with MongoDB, Express, and Node.js for managing campground listings.",
+        "Integrated database functionality to store campground names, images, and user-submitted reviews.",
+        "Implemented user authentication and authorization for secure access to review and edit features.",
+        "Added basic front-end styling for a clean and usable interface."
+      ],
+      "githubUrl": "https://github.com/AIshaban/the-big-project",
+      "status": "ongoing",
+      "duration": "ongoing",
+      "year": "2025"
+    },
+    {
+      "id": 3,
+      "title": "E-commerce WebsiteE-commerce Website",
+      "description": "An ecommerce website that's flexable with multipages navigation and uses responsive design.",
+      "techStack": ["HTML", "CSS", "javascript"],
+      "features": [
+        "Developed a multi-page website for a simulated online store using vanilla HTML and CSS.",
+        "Designed and styled multiple product, cart, and home pages to enhance user experience.",
+        "Focused on responsive layout and clean, intuitive navigation."
+      ],
+      "githubUrl": "https://github.com/johndoe/weather-dashboard",
+      "image": "assets/images/projects/weather.jpg",
+      "status": "Completed",
+      "duration": "1 month",
+      "year": "2022"
+    }
+  ],
+  "categories": [
+    "E-Commerce",
+    "Productivity",
+    "Weather",
+    "Content Management",
+    "Finance",
+    "Social"
+  ],
+  "technologies": [
+    "React",
+    "Node.js",
+    "Vue.js",
+    "Angular",
+    "Next.js",
+    "MongoDB",
+    "PostgreSQL",
+    "Firebase",
+    "AWS",
+    "Stripe API"
+  ]
+}

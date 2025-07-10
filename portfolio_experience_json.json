@@ -1,0 +1,27 @@
+{
+  "experiences": [
+     {
+      "startDate": "Jul 2024",
+      "endDate": "Sep 2024",
+      "title": "Operations Engineer Trainee",
+      "company": "AFM by Dorra",
+      "achievements": [
+        "Assisted in project execution and resource management", 
+        "working collaboratively with the team",
+        "Monitored machinery status and workflow to ensure optimal performance"
+      ]
+    },
+    {
+      "startDate": "Jan 2023",
+      "endDate": "jan 2024",
+      "title": "Software Engineer Trainee",
+      "company": "IMT",
+      "achievements": [
+        "Gained hands-on experience in embedded systems development using AVR and ARM architectures.",
+        "Programmed embedded applications in Python within a Linux environment, integrating hardware and software components.",
+        "Designed, simulated, and tested PCBs for multiple embedded projects, including a smart home system.",
+        "Led the development of a functional smart home prototype, combining hardware control with software interfaces."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "personalInfo": {
+    "name": "Adel Ibrahim",
+    "email": "adelishaban99@gmail.com",
+    "phone": "+20 112 922 0777",
+    "linkedin": "https://linkedin.com/in/your-profile"
+  },
+  "profile": "Engineering graduate with a strong foundation in software engineering and web development. Proficient in modern web technologies, with hands-on experience building responsive applications. Seeking a role to apply my technical skills, creativity, and engineering mindset.",
+  "skills": {
+    "webDevelopment": ["HTML/CSS", "Bootstrap", "Node.js", "React"],
+    "programmingLanguages": ["Python", "C/C++", "JavaScript", "TypeScript", "SQL"],
+    "databaseManagement": ["Firebase", "MySQL", "MongoDB"],
+    "versionControl": ["Git", "GitHub"]
+  },
+  "experience": [
+    {
+      "title": "Operations Engineer Trainee",
+      "company": "Dorra",
+      "duration": "Jul 2024 – Sep 2024",
+      "responsibilities": [
+        "Assisted in project execution and resource management, working collaboratively with the team",
+        "Monitored machinery status and workflow to ensure optimal performance"
+      ]
+    },
+    {
+      "title": "Software Engineer Trainee",
+      "company": "IMT",
+      "duration": "Jan 2023 – Jan 2024",
+      "responsibilities": [
+        "Worked with embedded systems, including AVR and ARM architectures",
+        "Developed software using Python and Linux for embedded applications",
+        "Designed and simulated PCBs for various embedded projects",
+        "Created a smart home project, integrating hardware and simulation for functionality"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Graduation Project - Smart Meter",
+      "duration": "Sep 2023 – Jun 2024",
+      "description": [
+        "Developed an innovative IoT-based application enabling consumers to monitor and manage household energy consumption",
+        "Designed a user-friendly interface for tracking power usage across appliances and home zones",
+        "Implemented multiple operational modes to optimize energy efficiency",
+        "Assembled and managed databases using Firebase for real-time data storage and retrieval"
+      ],
+      "technologies": ["IoT", "Firebase", "React/Node.js"]
+    },
+    {
+      "name": "Restaurant Reservation System",
+      "duration": "Feb 2021",
+      "description": [
+        "Developed a restaurant reservation and delivery system using data structures",
+        "Implemented efficient algorithms for managing reservations, orders, and deliveries",
+        "Optimized system performance to handle high volumes of reservations and orders"
+      ],
+      "technologies": ["Data Structures", "Algorithms"]
+    },
+    {
+      "name": "Painting for Kids",
+      "duration": "Sep 2020",
+      "description": [
+        "Developed an interactive painting application for kids using C++ and Object-Oriented Programming (OOP) principles",
+        "Implemented shape recognition features to enhance user interaction and creativity",
+        "Designed the system with a focus on intuitive functionality and educational value"
+      ],
+      "technologies": ["C++", "OOP"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "field": "Electrical Engineering",
+      "institution": "Cairo University (Credit Hours System)",
+      "duration": "Sep 2017 – Jan 2025"
+    }
+  ]
+}

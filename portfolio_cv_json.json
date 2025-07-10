@@ -1,0 +1,107 @@
+{
+  "name": "Adel Ibrahim",
+  "email": "adelishaban99@gmail.com",
+  "phone": "+20 112 922 0777",
+  "location": "Cairo, Egypt",
+  "website": "https://johndoe.dev",
+  "linkedin": "linkedin.com/in/adel-ibrahim-636914269/",
+  "github": "https://github.com/AIshaban",
+  "summary": "Engineering graduate with a strong foundation in software engineering and web development. Proficient in modern web technologies, with hands-on experience building responsive applications. Seeking a role to apply my technical skills, creativity, and engineering mindset.",
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "field": "Electrical Engineering",
+      "institution": "Cairo University (Credit Hours System)",
+      "year": "2025"
+    },
+    {
+      "degree": "Full Stack Web Development Bootcamp",
+      "institution": "udemy",
+      "year": "2024",
+      "description": "Intensive 12-week program covering modern web development technologies"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Expert",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Expert",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "React",
+      "level": "Expert",
+      "category": "Frontend Frameworks"
+    },
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "category": "Backend Technologies"
+    },    
+    {
+      "name": "C/C++",
+      "level": "Advanced",
+      "category": "Backend Technologies"
+    },  
+    {
+      "name": "Firebase",
+      "level": "Advanced",
+      "category": "Database managemenT"
+    },   
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "category": "Database managemenT"
+    },    
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Advanced",
+      "category": "Databases"
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "category": "DevOps"
+    },
+    {
+      "name": "HTML/CSS",
+      "level": "Expert",
+      "category": "Programming Languages"
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "category": "Version Control"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "French",
+      "proficiency": "Conversational"
+    }
+  ],
+  "interests": [
+    "Open Source Contributing",
+    "Machine Learning",
+    "Photography",
+    "Travel",
+    "Rock Climbing"
+  ]
+}
